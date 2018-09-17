@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : mastermind.c
- Author      : ERL67 Eric Laslo
+ Author      : ERL67 
  Compile     : gcc --std=c99 -Wall -Werror -o mastermind mastermind.c
  Colors      : https://misc.flogisoft.com/bash/tip_colors_and_formatting
  ============================================================================

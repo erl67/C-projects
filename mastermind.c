@@ -18,15 +18,9 @@ char guess[6];
 _Bool good_guess;
 const int attempts = 10;
 
-/*
-typedef enum {
-	Red, Orange, Yellow, Green, Blue, Purple
-} Color;*/
-
 typedef enum {
 	r, o, y, g, b, p
 } Letter;
-
 
 void get_line(char* input, int size);
 int random_range(int lower, int upper);
